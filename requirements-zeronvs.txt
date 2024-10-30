@@ -29,7 +29,7 @@ xatlas
 trimesh[easy]
 networkx
 pysdf
-PyMCubes
+PyMCubes==0.1.4
 wandb
 gradio
 git+https://github.com/ashawkey/envlight.git
